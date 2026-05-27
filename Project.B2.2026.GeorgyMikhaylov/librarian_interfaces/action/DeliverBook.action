@@ -1,0 +1,10 @@
+string book_name
+float64 book_x
+float64 book_y
+---
+bool success
+string message
+---
+string stage
+float64 current_x
+float64 current_y
